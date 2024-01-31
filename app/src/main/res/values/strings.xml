@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">bisayok</string>
+    <string name="default_web_client_id">nilai_default_web_client_id</string>
+    <string name="selamat_datang">Selamat Datang</string>
+
+</resources>

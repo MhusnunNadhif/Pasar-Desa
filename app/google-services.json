@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676814526790",
+    "project_id": "bisayok-95754",
+    "storage_bucket": "bisayok-95754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676814526790:android:cb78a0644d3198ff18ad47",
+        "android_client_info": {
+          "package_name": "com.example.bisayok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX4W1y9-DMiFh1r8jlOnfIJxR1l5O7DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
